@@ -230,10 +230,8 @@
 25he said, "Cursed be Canaan! The lowest of slaves will he be to his brothers."
 26He also said, "Blessed be the Lord , the God of Shem! May Canaan be the slave of Shem.
 27May God extend the territory of Japheth ; may Japheth live in the tents of Shem, and may Canaan be his slave."
-28After the flood Noah lived
-350 years.
-29Altogether, Noah lived
-950 years, and then he died.
+28After the flood Noah lived 350 years.
+29Altogether, Noah lived 950 years, and then he died.
 10This is the account of Shem, Ham and Japheth, Noah's sons, who themselves had sons after the flood. The Japhethites
 2 The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech and Tiras.
 3 The sons of Gomer: Ashkenaz, Riphath and Togarmah.
@@ -1668,14 +1666,11 @@
 13Now the Lord spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.
 14These were the heads of their families : The sons of Reuben the firstborn son of Israel were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.
 15The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite woman. These were the clans of Simeon.
-16These were the names of the sons of Levi according to their records: Gershon, Kohath and Merari. Levi lived
-137 years.
+16These were the names of the sons of Levi according to their records: Gershon, Kohath and Merari. Levi lived 137 years.
 17The sons of Gershon, by clans, were Libni and Shimei.
-18The sons of Kohath were Amram, Izhar, Hebron and Uzziel. Kohath lived
-133 years.
+18The sons of Kohath were Amram, Izhar, Hebron and Uzziel. Kohath lived 133 years.
 19The sons of Merari were Mahli and Mushi. These were the clans of Levi according to their records.
-20Amram married his father's sister Jochebed, who bore him Aaron and Moses. Amram lived
-137 years.
+20Amram married his father's sister Jochebed, who bore him Aaron and Moses. Amram lived 137 years.
 21The sons of Izhar were Korah, Nepheg and Zicri.
 22The sons of Uzziel were Mishael, Elzaphan and Sithri.
 23Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
@@ -1856,10 +1851,8 @@
 37The Israelites journeyed from Rameses to Succoth. There were about six hundred thousand men on foot, besides women and children.
 38Many other people went up with them, as well as large droves of livestock, both flocks and herds.
 39With the dough they had brought from Egypt, they baked cakes of unleavened bread. The dough was without yeast because they had been driven out of Egypt and did not have time to prepare food for themselves.
-40Now the length of time the Israelite people lived in Egypt was
-430 years.
-41At the end of the
-430 years, to the very day, all the Lord 's divisions left Egypt.
+40Now the length of time the Israelite people lived in Egypt was 430 years.
+41At the end of the 430 years, to the very day, all the Lord 's divisions left Egypt.
 42Because the Lord kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the Lord for the generations to come.
 43The Lord said to Moses and Aaron, "These are the regulations for the Passover: "No foreigner is to eat of it.
 44Any slave you have bought may eat of it after you have circumcised him,
@@ -4212,8 +4205,7 @@
 32and the earth opened its mouth and swallowed them, with their households and all Korah's men and all their possessions.
 33They went down alive into the grave, with everything they owned; the earth closed over them, and they perished and were gone from the community.
 34At their cries, all the Israelites around them fled, shouting, "The earth is going to swallow us too!"
-35And fire came out from the Lord and consumed the
-250 men who were offering the incense.
+35And fire came out from the Lord and consumed the 250 men who were offering the incense.
 36The Lord said to Moses,
 37"Tell Eleazar son of Aaron, the priest, to take the censers out of the smoldering remains and scatter the coals some distance away, for the censers are holy38the censers of the men who sinned at the cost of their lives. Hammer the censers into sheets to overlay the altar, for they were presented before the Lord and have become holy. Let them be a sign to the Israelites."
 39So Eleazar the priest collected the bronze censers brought by those who had been burned up, and he had them hammered out to overlay the altar,
@@ -4226,8 +4218,7 @@
 46Then Moses said to Aaron, "Take your censer and put incense in it, along with fire from the altar, and hurry to the assembly to make atonement for them. Wrath has come out from the Lord ; the plague has started."
 47So Aaron did as Moses said, and ran into the midst of the assembly. The plague had already started among the people, but Aaron offered the incense and made atonement for them.
 48He stood between the living and the dead, and the plague stopped.
-49But
-14,700 people died from the plague, in addition to those who had died because of Korah.
+49But 14,700 people died from the plague, in addition to those who had died because of Korah.
 50Then Aaron returned to Moses at the entrance to the Tent of Meeting, for the plague had stopped.
 17The Lord said to Moses,
 2 "Speak to the Israelites and get twelve staffs from them, one from the leader of each of their ancestral tribes. Write the name of each man on his staff.
@@ -4464,8 +4455,7 @@
 6 Then an Israelite man brought to his family a Midianite woman right before the eyes of Moses and the whole assembly of Israel while they were weeping at the entrance to the Tent of Meeting.
 7 When Phinehas son of Eleazar, the son of Aaron, the priest, saw this, he left the assembly, took a spear in his hand
 8 and followed the Israelite into the tent. He drove the spear through both of them-through the Israelite and into the woman's body. Then the plague against the Israelites was stopped;
-9 but those who died in the plague numbered
-24,000.
+9 but those who died in the plague numbered 24,000.
 10The Lord said to Moses,
 11"Phinehas son of Eleazar, the son of Aaron, the priest, has turned my anger away from the Israelites; for he was as zealous as I am for my honor among them, so that in my zeal I did not put an end to them.
 12Therefore tell him I am making my covenant of peace with him.
@@ -4481,65 +4471,51 @@
 4 "Take a census of the men twenty years old or more, as the Lord commanded Moses." These were the Israelites who came out of Egypt:
 5 The descendants of Reuben, the firstborn son of Israel, were: through Hanoch, the Hanochite clan; through Pallu, the Palluite clan;
 6 through Hezron, the Hezronite clan; through Carmi, the Carmite clan.
-7 These were the clans of Reuben; those numbered were
-43,730.
+7 These were the clans of Reuben; those numbered were 43,730.
 8 The son of Pallu was Eliab,
 9 and the sons of Eliab were Nemuel, Dathan and Abiram. The same Dathan and Abiram were the community officials who rebelled against Moses and Aaron and were among Korah's followers when they rebelled against the Lord .
-10The earth opened its mouth and swallowed them along with Korah, whose followers died when the fire devoured the
-250 men. And they served as a warning sign.
+10The earth opened its mouth and swallowed them along with Korah, whose followers died when the fire devoured the 250 men. And they served as a warning sign.
 11The line of Korah, however, did not die out.
 12The descendants of Simeon by their clans were: through Nemuel, the Nemuelite clan; through Jamin, the Jaminite clan; through Jakin, the Jakinite clan;
 13through Zerah, the Zerahite clan; through Shaul, the Shaulite clan.
-14These were the clans of Simeon; there were
-22,200 men.
+14These were the clans of Simeon; there were 22,200 men.
 15The descendants of Gad by their clans were: through Zephon, the Zephonite clan; through Haggi, the Haggite clan; through Shuni, the Shunite clan;
 16through Ozni, the Oznite clan; through Eri, the Erite clan;
 17through Arodi, the Arodite clan; through Areli, the Arelite clan.
-18These were the clans of Gad; those numbered were
-40,500.
+18These were the clans of Gad; those numbered were 40,500.
 19Er and Onan were sons of Judah, but they died in Canaan.
 20The descendants of Judah by their clans were: through Shelah, the Shelanite clan; through Perez, the Perezite clan; through Zerah, the Zerahite clan.
 21The descendants of Perez were: through Hezron, the Hezronite clan; through Hamul, the Hamulite clan.
-22These were the clans of Judah; those numbered were
-76,500.
+22These were the clans of Judah; those numbered were 76,500.
 23The descendants of Issachar by their clans were: through Tola, the Tolaite clan; through Puah, the Puite clan;
 24through Jashub, the Jashubite clan; through Shimron, the Shimronite clan.
-25These were the clans of Issachar; those numbered were
-64,300.
+25These were the clans of Issachar; those numbered were 64,300.
 26The descendants of Zebulun by their clans were: through Sered, the Seredite clan; through Elon, the Elonite clan; through Jahleel, the Jahleelite clan.
-27These were the clans of Zebulun; those numbered were
-60,500.
+27These were the clans of Zebulun; those numbered were 60,500.
 28The descendants of Joseph by their clans through Manasseh and Ephraim were:
 29The descendants of Manasseh: through Makir, the Makirite clan (Makir was the father of Gilead); through Gilead, the Gileadite clan.
 30These were the descendants of Gilead: through Iezer, the Iezerite clan; through Helek, the Helekite clan;
 31through Asriel, the Asrielite clan; through Shechem, the Shechemite clan;
 32through Shemida, the Shemidaite clan; through Hepher, the Hepherite clan.
 33(Zelophehad son of Hepher had no sons; he had only daughters, whose names were Mahlah, Noah, Hoglah, Milcah and Tirzah.)
-34These were the clans of Manasseh; those numbered were
-52,700.
+34These were the clans of Manasseh; those numbered were 52,700.
 35These were the descendants of Ephraim by their clans: through Shuthelah, the Shuthelahite clan; through Beker, the Bekerite clan; through Tahan, the Tahanite clan.
 36These were the descendants of Shuthelah: through Eran, the Eranite clan.
-37These were the clans of Ephraim; those numbered were
-32,500. These were the descendants of Joseph by their clans.
+37These were the clans of Ephraim; those numbered were 2,500. These were the descendants of Joseph by their clans.
 38The descendants of Benjamin by their clans were: through Bela, the Belaite clan; through Ashbel, the Ashbelite clan; through Ahiram, the Ahiramite clan;
 39through Shupham, the Shuphamite clan; through Hupham, the Huphamite clan.
 40The descendants of Bela through Ard and Naaman were: through Ard, the Ardite clan; through Naaman, the Naamite clan.
-41These were the clans of Benjamin; those numbered were
-45,600.
+41These were the clans of Benjamin; those numbered were 45,600.
 42These were the descendants of Dan by their clans: through Shuham, the Shuhamite clan. These were the clans of Dan:
-43All of them were Shuhamite clans; and those numbered were
-64,400.
+43All of them were Shuhamite clans; and those numbered were 64,400.
 44The descendants of Asher by their clans were: through Imnah, the Imnite clan; through Ishvi, the Ishvite clan; through Beriah, the Beriite clan;
 45and through the descendants of Beriah: through Heber, the Heberite clan; through Malkiel, the Malkielite clan.
 46(Asher had a daughter named Serah.)
-47These were the clans of Asher; those numbered were
-53,400.
+47These were the clans of Asher; those numbered were 53,400.
 48The descendants of Naphtali by their clans were: through Jahzeel, the Jahzeelite clan; through Guni, the Gunite clan;
 49through Jezer, the Jezerite clan; through Shillem, the Shillemite clan.
-50These were the clans of Naphtali; those numbered were
-45,400.
-51The total number of the men of Israel was
-601,730.
+50These were the clans of Naphtali; those numbered were 45,400.
+51The total number of the men of Israel was 601,730.
 52The Lord said to Moses,
 53"The land is to be allotted to them as an inheritance based on the number of names.
 54To a larger group give a larger inheritance, and to a smaller group a smaller one; each is to receive its inheritance according to the number of those listed.
@@ -4550,8 +4526,7 @@
 59the name of Amram's wife was Jochebed, a descendant of Levi, who was born to the Levites in Egypt. To Amram she bore Aaron, Moses and their sister Miriam.
 60Aaron was the father of Nadab and Abihu, Eleazar and Ithamar.
 61But Nadab and Abihu died when they made an offering before the Lord with unauthorized fire.)
-62All the male Levites a month old or more numbered
-23,000. They were not counted along with the other Israelites because they received no inheritance among them.
+62All the male Levites a month old or more numbered 23,000. They were not counted along with the other Israelites because they received no inheritance among them.
 63These are the ones counted by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan across from Jericho.
 64Not one of them was among those counted by Moses and Aaron the priest when they counted the Israelites in the Desert of Sinai.
 65For the Lord had told those Israelites they would surely die in the desert, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.
@@ -4696,36 +4671,27 @@
 29Take this tribute from their half share and give it to Eleazar the priest as the Lord 's part.
 30From the Israelites' half, select one out of every fifty, whether persons, cattle, donkeys, sheep, goats or other animals. Give them to the Levites, who are responsible for the care of the Lord 's tabernacle."
 31So Moses and Eleazar the priest did as the Lord commanded Moses.
-32The plunder remaining from the spoils that the soldiers took was
-675,000 sheep,
+32The plunder remaining from the spoils that the soldiers took was 675,000 sheep,
 3372,000 cattle,
 3461,000 donkeys
-35and
-32,000 women who had never slept with a man.
-36The half share of those who fought in the battle was:
-337,500 sheep,
-37of which the tribute for the Lord was
-675;
-3836,000 cattle, of which the tribute for the Lord was
-72;
-3930,500 donkeys, of which the tribute for the Lord was
-61;
-4016,000 people, of which the tribute for the Lord was
-32.
+35and 32,000 women who had never slept with a man.
+36The half share of those who fought in the battle was: 337,500 sheep,
+37of which the tribute for the Lord was 675;
+3836,000 cattle, of which the tribute for the Lord was 72;
+3930,500 donkeys, of which the tribute for the Lord was 61;
+4016,000 people, of which the tribute for the Lord was 32.
 41Moses gave the tribute to Eleazar the priest as the Lord 's part, as the Lord commanded Moses.
-42The half belonging to the Israelites, which Moses set apart from that of the fighting men43the community's half-was
-337,500 sheep,
+42The half belonging to the Israelites, which Moses set apart from that of the fighting men
+43the community's half-was 337,500 sheep,
 4436,000 cattle,
 4530,500 donkeys
-46and
-16,000 people.
+46and 16,000 people.
 47From the Israelites' half, Moses selected one out of every fifty persons and animals, as the Lord commanded him, and gave them to the Levites, who were responsible for the care of the Lord 's tabernacle.
 48Then the officers who were over the units of the army-the commanders of thousands and commanders of hundreds-went to Moses
 49and said to him, "Your servants have counted the soldiers under our command, and not one is missing.
 50So we have brought as an offering to the Lord the gold articles each of us acquired-armlets, bracelets, signet rings, earrings and necklaces-to make atonement for ourselves before the Lord ."
 51Moses and Eleazar the priest accepted from them the gold-all the crafted articles.
-52All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the Lord weighed
-16,750 shekels.
+52All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the Lord weighed 16,750 shekels.
 53Each soldier had taken plunder for himself.
 54Moses and Eleazar the priest accepted the gold from the commanders of thousands and commanders of hundreds and brought it into the Tent of Meeting as a memorial for the Israelites before the Lord .
 32The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock.
@@ -7209,7 +7175,6 @@
 20Amminadab the father of Nahshon, Nahshon the father of Salmon,
 21Salmon the father of Boaz, Boaz the father of Obed,
 22Obed the father of Jesse, and Jesse the father of David.
-1st Samuel
 1There was a certain man from Ramathaim, a Zuphite from the hill country of Ephraim, whose name was Elkanah son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
 2 He had two wives; one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.
 3 Year after year this man went up from his town to worship and sacrifice to the Lord Almighty at Shiloh, where Hophni and Phinehas, the two sons of Eli, were priests of the Lord .
@@ -8019,7 +7984,6 @@
 11When the people of Jabesh Gilead heard of what the Philistines had done to Saul,
 12all their valiant men journeyed through the night to Beth Shan. They took down the bodies of Saul and his sons from the wall of Beth Shan and went to Jabesh, where they burned them.
 13Then they took their bones and buried them under a tamarisk tree at Jabesh, and they fasted seven days.
-2nd Samuel
 1After the death of Saul, David returned from defeating the Amalekites and stayed in Ziklag two days.
 2 On the third day a man arrived from Saul's camp, with his clothes torn and with dust on his head. When he came to David, he fell to the ground to pay him honor.
 3 "Where have you come from?" David asked him. He answered, "I have escaped from the Israelite camp."
@@ -8715,7 +8679,6 @@
 23O king, Araunah gives all this to the king." Araunah also said to him, "May the Lord your God accept you."
 24But the king replied to Araunah, "No, I insist on paying you for it. I will not sacrifice to the Lord my God burnt offerings that cost me nothing." So David bought the threshing floor and the oxen and paid fifty shekels of silver for them.
 25David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. Then the Lord answered prayer in behalf of the land, and the plague on Israel was stopped.
-1st Kings
 1When King David was old and well advanced in years, he could not keep warm even when they put covers over him.
 2 So his servants said to him, "Let us look for a young virgin to attend the king and take care of him. She can lie beside him so that our lord the king may keep warm."
 3 Then they searched throughout Israel for a beautiful girl and found Abishag, a Shunammite, and brought her to the king.
@@ -9060,8 +9023,7 @@
 10At the end of twenty years, during which Solomon built these two buildings-the temple of the Lord and the royal palace11King Solomon gave twenty towns in Galilee to Hiram king of Tyre, because Hiram had supplied him with all the cedar and pine and gold he wanted.
 12But when Hiram went from Tyre to see the towns that Solomon had given him, he was not pleased with them.
 13"What kind of towns are these you have given me, my brother?" he asked. And he called them the Land of Cabul, a name they have to this day.
-14Now Hiram had sent to the king
-120 talents of gold.
+14Now Hiram had sent to the king 120 talents of gold.
 15Here is the account of the forced labor King Solomon conscripted to build the Lord 's temple, his own palace, the supporting terraces, the wall of Jerusalem, and Hazor, Megiddo and Gezer.
 16(Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire. He killed its Canaanite inhabitants and then gave it as a wedding gift to his daughter, Solomon's wife.
 17And Solomon rebuilt Gezer.) He built up Lower Beth Horon,
@@ -9075,8 +9037,7 @@
 25Three times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the Lord , burning incense before the Lord along with them, and so fulfilled the temple obligations.
 26King Solomon also built ships at Ezion Geber, which is near Elath in Edom, on the shore of the Red Sea.
 27And Hiram sent his men-sailors who knew the sea-to serve in the fleet with Solomon's men.
-28They sailed to Ophir and brought back
-420 talents of gold, which they delivered to King Solomon.
+28They sailed to Ophir and brought back 420 talents of gold, which they delivered to King Solomon.
 10When the queen of Sheba heard about the fame of Solomon and his relation to the name of the Lord , she came to test him with hard questions.
 2 Arriving at Jerusalem with a very great caravan-with camels carrying spices, large quantities of gold, and precious stones-she came to Solomon and talked with him about all that she had on her mind.
 3 Solomon answered all her questions; nothing was too hard for the king to explain to her.
@@ -9091,8 +9052,7 @@
 11(Hiram's ships brought gold from Ophir; and from there they brought great cargoes of almugwood and precious stones.
 12The king used the almugwood to make supports for the temple of the Lord and for the royal palace, and to make harps and lyres for the musicians. So much almugwood has never been imported or seen since that day.)
 13King Solomon gave the queen of Sheba all she desired and asked for, besides what he had given her out of his royal bounty. Then she left and returned with her retinue to her own country.
-14The weight of the gold that Solomon received yearly was
-666 talents,
+14The weight of the gold that Solomon received yearly was 666 talents,
 15not including the revenues from merchants and traders and from all the Arabian kings and the governors of the land.
 16King Solomon made two hundred large shields of hammered gold; six hundred bekas of gold went into each shield.
 17He also made three hundred small shields of hammered gold, with three minas of gold in each shield. The king put them in the Palace of the Forest of Lebanon.
@@ -9420,11 +9380,8 @@
 12Ben-Hadad heard this message while he and the kings were drinking in their tents, and he ordered his men: "Prepare to attack." So they prepared to attack the city.
 13Meanwhile a prophet came to Ahab king of Israel and announced, "This is what the Lord says: 'Do you see this vast army? I will give it into your hand today, and then you will know that I am the Lord .' "
 14"But who will do this?" asked Ahab. The prophet replied, "This is what the Lord says: 'The young officers of the provincial commanders will do it.' " "And who will start the battle?" he asked. The prophet answered, "You will."
-15So Ahab summoned the young officers of the provincial commanders,
-232 men. Then he assembled the rest of the Israelites,
-7,000 in all.
-16They set out at noon while Ben-Hadad and the
-32 kings allied with him were in their tents getting drunk.
+15So Ahab summoned the young officers of the provincial commanders, 232 men. Then he assembled the rest of the Israelites, 7,000 in all.
+16They set out at noon while Ben-Hadad and the 32 kings allied with him were in their tents getting drunk.
 17The young officers of the provincial commanders went out first. Now BenHadad had dispatched scouts, who reported, "Men are advancing from Samaria."
 18He said, "If they have come out for peace, take them alive; if they have come out for war, take them alive."
 19The young officers of the provincial commanders marched out of the city with the army behind them
@@ -9534,7 +9491,6 @@
 51Ahaziah son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.
 52He did evil in the eyes of the Lord , because he walked in the ways of his father and mother and in the ways of Jeroboam son of Nebat, who caused Israel to sin.
 53He served and worshiped Baal and provoked the Lord , the God of Israel, to anger, just as his father had done.
-2nd Kings
 1After Ahab's death, Moab rebelled against Israel.
 2 Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers, saying to them, "Go and consult BaalZebub, the god of Ekron, to see if I will recover from this injury."
 3 But the angel of the Lord said to Elijah the Tishbite, "Go up and meet the messengers of the king of Samaria and ask them, 'Is it because there is no God in Israel that you are going off to consult Baal-Zebub, the god of Ekron?'
@@ -10253,7 +10209,6 @@
 28He spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon.
 29So Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table.
 30Day by day the king gave Jehoiachin a regular allowance as long as he lived.
-1st Chronicles
 1Adam, Seth, Enosh,
 2 Kenan, Mahalalel, Jared,
 3 Enoch, Methuselah, Lamech, Noah.
@@ -10538,22 +10493,16 @@
 80and from the tribe of Gad they received Ramoth in Gilead, Mahanaim,
 81Heshbon and Jazer, together with their pasturelands.
 7The sons of Issachar: Tola, Puah, Jashub and Shimron-four in all.
-2 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam and Samuelheads of their families. During the reign of David, the descendants of Tola listed as fighting men in their genealogy numbered
-22,600.
+2 The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam and Samuelheads of their families. During the reign of David, the descendants of Tola listed as fighting men in their genealogy numbered 22,600.
 3 The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel and Isshiah. All five of them were chiefs.
-4 According to their family genealogy, they had
-36,000 men ready for battle, for they had many wives and children.
-5 The relatives who were fighting men belonging to all the clans of Issachar, as listed in their genealogy, were
-87,000 in all.
+4 According to their family genealogy, they had 36,000 men ready for battle, for they had many wives and children.
+5 The relatives who were fighting men belonging to all the clans of Issachar, as listed in their genealogy, were 87,000 in all.
 6 Three sons of Benjamin: Bela, Beker and Jediael.
-7 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth and Iri, heads of families-five in all. Their genealogical record listed
-22,034 fighting men.
+7 The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth and Iri, heads of families-five in all. Their genealogical record listed 22,034 fighting men.
 8 The sons of Beker: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth and Alemeth. All these were the sons of Beker.
-9 Their genealogical record listed the heads of families and
-20,200 fighting men.
+9 Their genealogical record listed the heads of families and 20,200 fighting men.
 10The son of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish and Ahishahar.
-11All these sons of Jediael were heads of families. There were
-17,200 fighting men ready to go out to war.
+11All these sons of Jediael were heads of families. There were 17,200 fighting men ready to go out to war.
 12The Shuppites and Huppites were the descendants of Ir, and the Hushites the descendants of Aher.
 13The sons of Naphtali: Jahziel, Guni, Jezer and Shillem -the descendants of Bilhah.
 14The descendants of Manasseh: Asriel was his descendant through his Aramean concubine. She gave birth to Makir the father of Gilead.
@@ -10582,8 +10531,7 @@
 37Bezer, Hod, Shamma, Shilshah, Ithran and Beera.
 38The sons of Jether: Jephunneh, Pispah and Ara.
 39The sons of Ulla: Arah, Hanniel and Rizia.
-40All these were descendants of Asherheads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was
-26,000.
+40All these were descendants of Asherheads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000.
 8Benjamin was the father of Bela his firstborn, Ashbel the second son, Aharah the third,
 2 Nohah the fourth and Rapha the fifth.
 3 The sons of Bela were: Addar, Gera, Abihud,
