@@ -9,7 +9,14 @@ with open("niv.txt", "w") as f:
 
         for i in range(10): # add newline characters before the verse number
             # find "."+str(i) in the line and replace it with ".\n"+ str(i)
-            line = line.replace('"{}'.format(i), '"\n{}'.format(i))
+            #line = line.replace(',{}'.format(i), ',\n{}'.format(i))
+            # line = line.replace("'{}".format(i), "'\n{}".format(i))
+            # line = line.replace("-{}".format(i), "-\n{}".format(i))
+            # line = line.replace("?{}".format(i), "?\n{}".format(i))
+            # line = line.replace("!{}".format(i), "!\n{}".format(i))
+            # line = line.replace(":{}".format(i), ":\n{}".format(i))
+            # line = line.replace(";{}".format(i), ";\n{}".format(i))
+            line = line.replace("{},\n".format(i), "{},".format(i))
         f.write(line)
 
 
