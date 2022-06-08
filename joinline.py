@@ -1,17 +1,107 @@
+
 with open("niv.txt", "r", encoding="utf8") as f:
     lines = f.readlines()
 with open("niv.txt", "w") as f:
-    for line in lines:
-        #f.write(line.replace("\n", " "))
-        #f.write(line.replace(" 9", "\n9"))
+    # #for i in range(len(a) - 1):
+    # for line in lines:
+    #     f.write(line.replace('; 9', ';\n9'))
 
-        # if line word count is less than 1, join to previous line
-        if len(line.split()) <= 1:
-            # join to previous line
-            lines[lines.index(line) - 1] += line
-        else:
-            f.write(line)
+    # # remove newline at the end of each line except the first one
+    # for i in range(len(lines) - 1):
+    #     f.write(lines[i].replace("\n", " "))
+
+    # range search between 1 - 177, and replace if found
+    for line in lines:
+        
+        for i in range(177):
+            if line.find(", " + str(i)) != -1:
+                line = line.replace(", " + str(i), ',\n' + str(i))
+        f.write(line)
+
+
+
             
+
+        
+
+
+
+           
+
+                
+                
+               
+            
+
+        
+          
+        
+            
+
+
+
+
+    
+
+
+
+            
+
+        
+        
+        
+            
+            
+        
+
+        
+
+
+
+
+        
+        
+
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+            
+
+
+            
+            
+        
+
+        
+
+        
+        
+        
+    
+
+        
+
+
+
+      
+
+
+
+        
+
+
 
            
 
