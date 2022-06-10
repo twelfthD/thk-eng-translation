@@ -23719,11 +23719,11 @@
 18Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.
 19Then the disciples came to Jesus in private and asked, "Why couldn't we drive it out?"
 20He replied, "Because you have so little faith. I tell you the truth, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there' and it will move. Nothing will be impossible for you."
+21Howbeit this kind goeth not out but by prayer and fasting.
 22When they came together in Galilee, he said to them, "The Son of Man is going to be betrayed into the hands of men.
 23They will kill him, and on the third day he will be raised to life." And the disciples were filled with grief.
 24After Jesus and his disciples arrived in Capernaum, the collectors of the twodrachma tax came to Peter and asked, "Doesn't your teacher pay the temple tax ?"
-25"Yes, he does," he replied. When Peter came into the house, Jesus was the first to speak. "What do you think, Simon?" he asked. "From whom do the kings of the earth collect duty and taxes-
--from their own sons or from others?"
+25"Yes, he does," he replied. When Peter came into the house, Jesus was the first to speak. "What do you think, Simon?" he asked. "From whom do the kings of the earth collect duty and taxes--from their own sons or from others?"
 26"From others," Peter answered.
 27"Then the sons are exempt," Jesus said to him. "But so that we may not offend them, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours."
 18At that time the disciples came to Jesus and asked, "Who is the greatest in the kingdom of heaven?"
@@ -23901,8 +23901,7 @@
 28Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?"
 29Jesus replied, "You are in error because you do not know the Scriptures or the power of God.
 30At the resurrection people will neither marry nor be given in marriage; they will be like the angels in heaven.
-31But about the resurrection of the dead-
--have you not read what God said to you,
+31But about the resurrection of the dead--have you not read what God said to you,
 32'I am the God of Abraham, the God of Isaac, and the God of Jacob' ? He is not the God of the dead but of the living."
 33When the crowds heard this, they were astonished at his teaching.
 34Hearing that Jesus had silenced the Sadducees, the Pharisees got together.
@@ -23931,6 +23930,7 @@
 11The greatest among you will be your servant.
 12For whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
 13"Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the kingdom of heaven in men's faces. You yourselves do not enter, nor will you let those enter who are trying to.
+14Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation.
 15"Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.
 16"Woe to you, blind guides! You say, 'If anyone swears by the temple, it means nothing; but if anyone swears by the gold of the temple, he is bound by his oath.'
 17You blind fools! Which is greater: the gold, or the temple that makes the gold sacred?
@@ -24477,6 +24477,7 @@
 13Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that."
 14Again Jesus called the crowd to him and said, "Listen to me, everyone, and understand this.
 15Nothing outside a man can make him 'unclean' by going into him. Rather, it is what comes out of a man that makes him 'unclean.' "
+16If any man have ears to hear, let him hear.
 17After he had left the crowd and entered the house, his disciples asked him about this parable.
 18"Are you so dull?" he asked. "Don't you see that nothing that enters a man from the outside can make him 'unclean'?
 19For it doesn't go into his heart but into his stomach, and then out of his body." (In saying this, Jesus declared all foods "clean.")
@@ -24579,7 +24580,9 @@
 41I tell you the truth, anyone who gives you a cup of water in my name because you belong to Christ will certainly not lose his reward.
 42"And if anyone causes one of these little ones who believe in me to sin, it would be better for him to be thrown into the sea with a large millstone tied around his neck.
 43If your hand causes you to sin, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.
+44where their worm dieth not, and the fire is not quenched.
 45And if your foot causes you to sin, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.
+46where their worm dieth not, and the fire is not quenched.
 47And if your eye causes you to sin, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
 48where " 'their worm does not die, and the fire is not quenched.'
 49Everyone will be salted with fire.
@@ -24661,6 +24664,7 @@
 23"I tell you the truth, if anyone says to this mountain, 'Go, throw yourself into the sea,' and does not doubt in his heart but believes that what he says will happen, it will be done for him.
 24Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
 25And when you stand praying, if you hold anything against anyone, forgive him, so that your Father in heaven may forgive you your sins."
+26But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.
 27They arrived again in Jerusalem, and while Jesus was walking in the temple courts, the chief priests, the teachers of the law and the elders came to him.
 28"By what authority are you doing these things?" they asked. "And who gave you authority to do this?"
 29Jesus replied, "I will ask you one question. Answer me, and I will tell you by what authority I am doing these things.
@@ -24848,6 +24852,7 @@
 25It was the third hour when they crucified him.
 26The written notice of the charge against him read: THE KING OF THE JEWS.
 27They crucified two robbers with him, one on his right and one on his left.
+28And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
 29Those who passed by hurled insults at him, shaking their heads and saying, "So! You who are going to destroy the temple and build it in three days,
 30come down from the cross and save yourself!"
 31In the same way the chief priests and the teachers of the law mocked him among themselves. "He saved others," they said, "but he can't save himself!
@@ -25680,6 +25685,7 @@
 33Whoever tries to keep his life will lose it, and whoever loses his life will preserve it.
 34I tell you, on that night two people will be in one bed; one will be taken and the other left.
 35Two women will be grinding grain together; one will be taken and the other left."
+36Two men shall be in the field; the one shall be taken, and the other left.
 37"Where, Lord?" they asked. He replied, "Where there is a dead body, there the vultures will gather."
 18Then Jesus told his disciples a parable to show them that they should always pray and not give up.
 2 He said: "In a certain town there was a judge who neither feared God nor cared about men.
@@ -25944,6 +25950,7 @@
 14and said to them, "You brought me this man as one who was inciting the people to rebellion. I have examined him in your presence and have found no basis for your charges against him.
 15Neither has Herod, for he sent him back to us; as you can see, he has done nothing to deserve death.
 16Therefore, I will punish him and then release him."
+17(For of necessity he must release one unto them at the feast.)
 18With one voice they cried out, "Away with this man! Release Barabbas to us!"
 19(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)
 20Wanting to release Jesus, Pilate appealed to them again.
@@ -26205,6 +26212,7 @@
 5Some time later, Jesus went up to Jerusalem for a feast of the Jews.
 2 Now there is in Jerusalem near the Sheep Gate a pool, which in Aramaic is called Bethesda and which is surrounded by five covered colonnades.
 3 Here a great number of disabled people used to lie--the blind, the lame, the paralyzed.
+4 For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
 5 One who was there had been an invalid for thirty-eight years.
 6 When Jesus saw him lying there and learned that he had been in this condition for a long time, he asked him, "Do you want to get well?"
 7 "Sir," the invalid replied, "I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else goes down ahead of me."
@@ -27203,6 +27211,7 @@
 34The eunuch asked Philip, "Tell me, please, who is the prophet talking about, himself or someone else?"
 35Then Philip began with that very passage of Scripture and told him the good news about Jesus.
 36As they traveled along the road, they came to some water and the eunuch said, "Look, here is water. Why shouldn't I be baptized?"
+37And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. 
 38And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.
 39When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing.
 40Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.
@@ -27465,6 +27474,7 @@
 31The people read it and were glad for its encouraging message.
 32Judas and Silas, who themselves were prophets, said much to encourage and strengthen the brothers.
 33After spending some time there, they were sent off by the brothers with the blessing of peace to return to those who had sent them.
+34Notwithstanding it pleased Silas to abide there still.
 35But Paul and Barnabas remained in Antioch, where they and many others taught and preached the word of the Lord.
 36Some time later Paul said to Barnabas, "Let us go back and visit the brothers in all the towns where we preached the word of the Lord and see how they are doing."
 37Barnabas wanted to take John, also called Mark, with them,
@@ -27764,6 +27774,7 @@
 4 But in order not to weary you further, I would request that you be kind enough to hear us briefly.
 5 "We have found this man to be a troublemaker, stirring up riots among the Jews all over the world. He is a ringleader of the Nazarene sect
 6 and even tried to desecrate the temple; so we seized him.
+7 But the chief captain Lysias came upon us, and with great violence took him away out of our hands
 8 By examining him yourself you will be able to learn the truth about all these charges we are bringing against him."
 9 The Jews joined in the accusation, asserting that these things were true.
 10When the governor motioned for him to speak, Paul replied: "I know that for a number of years you have been a judge over this nation; so I gladly make my defense.
@@ -27915,6 +27926,7 @@
 26" 'Go to this people and say, "You will be ever hearing but never understanding; you will be ever seeing but never perceiving."
 27For this people's heart has become calloused; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts and turn, and I would heal them.'
 28"Therefore I want you to know that God's salvation has been sent to the Gentiles, and they will listen!"
+29And when he had said these words, the Jews departed, and had great reasoning among themselves.
 30For two whole years Paul stayed there in his own rented house and welcomed all who came to see him.
 31Boldly and without hindrance he preached the kingdom of God and taught about the Lord Jesus Christ. Romans
 1Paul, a servant of Christ Jesus, called to be an apostle and set apart for the gospel of God--
@@ -27969,7 +27981,6 @@
 18if you know his will and approve of what is superior because you are instructed by the law;
 19if you are convinced that you are a guide for the blind, a light for those who are in the dark,
 20an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth-
--
 21you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?
 22You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?
 23You who brag about the law, do you dishonor God by breaking the law?
@@ -28308,8 +28319,7 @@
 15I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me
 16to be a minister of Christ Jesus to the Gentiles with the priestly duty of proclaiming the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.
 17Therefore I glory in Christ Jesus in my service to God.
-18I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done-
--
+18I will not venture to speak of anything except what Christ has accomplished through me in leading the Gentiles to obey God by what I have said and done
 19by the power of signs and miracles, through the power of the Spirit. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ.
 20It has always been my ambition to preach the gospel where Christ was not known, so that I would not be building on someone else's foundation.
 21Rather, as it is written: "Those who were not told about him will see, and those who have not heard will understand."
@@ -28348,6 +28358,7 @@
 21Timothy, my fellow worker, sends his greetings to you, as do Lucius, Jason and Sosipater, my relatives.
 22I, Tertius, who wrote down this letter, greet you in the Lord.
 23Gaius, whose hospitality I and the whole church here enjoy, sends you his greetings. Erastus, who is the city's director of public works, and our brother Quartus send you their greetings.
+24The grace of our Lord Jesus Christ be with you all. Amen.
 25Now to him who is able to establish you by my gospel and the proclamation of Jesus Christ, according to the revelation of the mystery hidden for long ages past,
 26but now revealed and made known through the prophetic writings by the command of the eternal God, so that all nations might believe and obey him--
 27to the only wise God be glory forever through Jesus Christ! Amen.
@@ -29093,8 +29104,7 @@
 3You foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.
 2 I would like to learn just one thing from you: Did you receive the Spirit by observing the law, or by believing what you heard?
 3 Are you so foolish? After beginning with the Spirit, are you now trying to attain your goal by human effort?
-4 Have you suffered so much for nothing-
--if it really was for nothing?
+4 Have you suffered so much for nothing, if it really was for nothing?
 5 Does God give you his Spirit and work miracles among you because you observe the law, or because you believe what you heard?
 6 Consider Abraham: "He believed God, and it was credited to him as righteousness."
 7 Understand, then, that those who believe are children of Abraham.
@@ -29563,8 +29573,7 @@
 2 We had previously suffered and been insulted in Philippi, as you know, but with the help of our God we dared to tell you his gospel in spite of strong opposition.
 3 For the appeal we make does not spring from error or impure motives, nor are we trying to trick you.
 4 On the contrary, we speak as men approved by God to be entrusted with the gospel. We are not trying to please men but God, who tests our hearts.
-5 You know we never used flattery, nor did we put on a mask to cover up greed-
--God is our witness.
+5 You know we never used flattery, nor did we put on a mask to cover up greed--God is our witness.
 6 We were not looking for praise from men, not from you or anyone else.
 7 As apostles of Christ we could have been a burden to you, but we were gentle among you, like a mother caring for her little children.
 8 We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.
@@ -30172,8 +30181,7 @@
 8 By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, even though he did not know where he was going.
 9 By faith he made his home in the promised land like a stranger in a foreign country; he lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise.
 10For he was looking forward to the city with foundations, whose architect and builder is God.
-11By faith Abraham, even though he was past age--and Sarah herself was barren-
--was enabled to become a father because he considered him faithful who had made the promise.
+11By faith Abraham, even though he was past age--and Sarah herself was barren--was enabled to become a father because he considered him faithful who had made the promise.
 12And so from this one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore.
 13All these people were still living by faith when they died. They did not receive the things promised; they only saw them and welcomed them from a distance. And they admitted that they were aliens and strangers on earth.
 14People who say such things show that they are looking for a country of their own.
@@ -30509,8 +30517,7 @@
 16But he was rebuked for his wrongdoing by a donkey--a beast without speech--who spoke with a man's voice and restrained the prophet's madness.
 17These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them.
 18For they mouth empty, boastful words and, by appealing to the lustful desires of sinful human nature, they entice people who are just escaping from those who live in error.
-19They promise them freedom, while they themselves are slaves of depravity-
--for a man is a slave to whatever has mastered him.
+19They promise them freedom, while they themselves are slaves of depravity--for a man is a slave to whatever has mastered him.
 20If they have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and overcome, they are worse off at the end than they were at the beginning.
 21It would have been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them.
 22Of them the proverbs are true: "A dog returns to its vomit," and, "A sow that is washed goes back to her wallowing in the mud."
@@ -30650,7 +30657,6 @@
 11Anyone who welcomes him shares in his wicked work.
 12I have much to write to you, but I do not want to use paper and ink. Instead, I hope to visit you and talk with you face to face, so that our joy may be complete.
 13The children of your chosen sister send their greetings.
-3rd John
 1The elder, To my dear friend Gaius, whom I love in the truth.
 2 Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.
 3 It gave me great joy to have some brothers come and tell about your faithfulness to the truth and how you continue to walk in the truth.
@@ -30735,9 +30741,8 @@
 23I will strike her children dead. Then all the churches will know that I am he who searches hearts and minds, and I will repay each of you according to your deeds.
 24Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned Satan's so-called deep secrets (I will not impose any other burden on you):
 25Only hold on to what you have until I come.
-26To him who overcomes and does my will to the end, I will give authority over the nations--
-27'He will rule them with an iron scepter; he will dash them to pieces like pottery' -
--
+26To him who overcomes and does my will to the end, I will give authority over the nations
+27'He will rule them with an iron scepter; he will dash them to pieces like pottery'
 28just as I have received authority from my Father. I will also give him the morning star.
 29He who has an ear, let him hear what the Spirit says to the churches.
 3"To the angel of the church in Sardis write: These are the words of him who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation of being alive, but you are dead.
@@ -30868,8 +30873,7 @@
 11Then I was told, "You must prophesy again about many peoples, nations, languages and kings."
 11I was given a reed like a measuring rod and was told, "Go and measure the temple of God and the altar, and count the worshipers there.
 2 But exclude the outer court; do not measure it, because it has been given to the Gentiles. They will trample on the holy city for 42 months.
-3 And I will give power to my two witnesses, and they will prophesy for
-1,260 days, clothed in sackcloth."
+3 And I will give power to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth."
 4 These are the two olive trees and the two lampstands that stand before the Lord of the earth.
 5 If anyone tries to harm them, fire comes from their mouths and devours their enemies. This is how anyone who wants to harm them must die.
 6 These men have power to shut up the sky so that it will not rain during the time they are prophesying; and they have power to turn the waters into blood and to strike the earth with every kind of plague as often as they want.
@@ -31063,8 +31067,7 @@
 13There were three gates on the east, three on the north, three on the south and three on the west.
 14The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
 15The angel who talked with me had a measuring rod of gold to measure the city, its gates and its walls.
-16The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be
-12,000 stadia in length, and as wide and high as it is long.
+16The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia in length, and as wide and high as it is long.
 17He measured its wall and it was 144 cubits thick, by man's measurement, which the angel was using.
 18The wall was made of jasper, and the city of pure gold, as pure as glass.
 19The foundations of the city walls were decorated with every kind of precious stone. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
